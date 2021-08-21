@@ -1,0 +1,16 @@
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\bin\Debug\netstandard2.0\Ethan.deps.json
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\bin\Debug\netstandard2.0\Ethan.dll
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\bin\Debug\netstandard2.0\ref\Ethan.dll
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\bin\Debug\netstandard2.0\Ethan.pdb
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Paginas\Listado.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Paginas\Persona.xaml.g.cs
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.AssemblyInfoInputs.cache
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.AssemblyInfo.cs
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.dll
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\ref\Ethan.dll
+C:\Users\Ethan Diaz\source\repos\Ethan\Ethan\Ethan\obj\Debug\netstandard2.0\Ethan.pdb

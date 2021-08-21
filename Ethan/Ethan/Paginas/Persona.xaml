@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Ethan;assembly=Ethan"
+             x:Class="Ethan.Paginas.Persona">
+    
+    <ScrollView>
+        <StackLayout>
+            
+            <Label Text="Persona" FontSize="25" HorizontalOptions="Center"></Label>
+            <Entry Placeholder="Nombre" Text="{Binding Nombre}"></Entry>
+            <Entry Placeholder="Apellido" Text="{Binding Apellido}"></Entry>
+            <Entry Placeholder="Edad" Text="{Binding Edad}"></Entry>
+            <Entry Placeholder="Direccion" Text="{Binding Direccion}"></Entry>
+            <Entry Placeholder="Puesto" Text="{Binding Puesto}"></Entry>
+            <Button Text="Guardar" Command="{Binding Guardar}"></Button>
+            <Button Text="Nuevo" Command="{Binding Nuevo}"></Button>
+            <Button x:Name="btnVer" Text="Visualizar" ></Button>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

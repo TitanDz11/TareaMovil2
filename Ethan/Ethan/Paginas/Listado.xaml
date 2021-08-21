@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Ethan;assembly=Ethan"
+             x:Class="Ethan.Paginas.Listado">
+    <StackLayout>
+        <Label Text="Listado de Personas" HorizontalOptions="Center"></Label>
+        <ListView ItemsSource="{Binding ListadoPersonas}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label x:Name="Nombre" Text="{Binding Nombre}"></Label>
+                            <Label x:Name="Apellido" Text="{Binding Apellido}"></Label>
+                            <Label x:Name="Edad" Text="{Binding Edad}"></Label>
+                            <Label x:Name="Direccion" Text="{Binding Direccion}"></Label>
+                            <Label x:Name="Puesto" Text="{Binding Puesto}"></Label>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+    
+</ContentPage>
